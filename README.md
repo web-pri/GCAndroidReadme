@@ -100,5 +100,5 @@ You may use [my script](https://github.com/Score-Inc/AnimeGamePatch) for this. T
 Or you can manually edit it with
 `nano proxy_config.py`
 
-Change `REMOTE_HOST` to `127.0.0.1`
+Change `REMOTE_HOST` to `127.0.0.1`\
 Change `REMOTE_PORT` to `54321`
