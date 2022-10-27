@@ -95,6 +95,10 @@ Do not ask me how to root, go to [XDA](https://www.xda-developers.com/) to find 
 
 ### Termux/mitmproxy
 
-You may use [my script](https://github.com/Score-Inc/AnimeGamePatch) for this.\
-`zex 4`\
+You may use [my script](https://github.com/Score-Inc/AnimeGamePatch) for this. To change it, enter the number `3\`
 <img src="img/termux.png" width="350"/><br />
+Or you can manually edit it with
+`nano proxy_config.py`
+
+Change `REMOTE_HOST` to `127.0.0.1`
+Change `REMOTE_PORT` to `54321`
