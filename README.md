@@ -72,7 +72,7 @@ To start MongoDB, run this command:
 sudo service mongodb start
 ```
 
-1. Open the app\
+1. Open the app
 2. Press/click on "New Connection"\
 <img src="img/databaseEdit1.png" width="350"/><br />
 3. You can set the name to "Grasscutter", like in this photo\
@@ -95,7 +95,7 @@ Do not ask me how to root, go to [XDA](https://www.xda-developers.com/) to find 
 
 ### Termux/mitmproxy
 
-You may use [my script](https://github.com/Score-Inc/AnimeGamePatch) for this. To change it, enter the number `3\`
+You may use [my script](https://github.com/Score-Inc/AnimeGamePatch) for this. To change it, enter the number `3`
 <img src="img/termux.png" width="350"/><br />
 Or you can manually edit it with
 `nano proxy_config.py`
